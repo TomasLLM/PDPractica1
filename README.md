@@ -32,7 +32,7 @@ void loop() {
   delay(DELAY);
 }
 ```
-## Efectes vist a l'_output_ de voltatge amb el canvi dels valors del _delay_
+## Efectes vists a l'_output_ de voltatge amb el canvi dels valors del _delay_
 
 <!-- 
 Anava a utilitzar el codi normal de markdown per a agregar imatges, 
